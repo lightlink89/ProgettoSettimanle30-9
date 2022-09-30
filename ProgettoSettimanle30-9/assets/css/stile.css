@@ -1,0 +1,139 @@
+html, body {
+    font-family: 'open sans' , sans-serif;
+    color: #393d41;
+    background-color: #fff;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    max-width: 100%;
+    overflow-x: hidden;
+    
+}
+h1 ,h2 ,h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    color:#25a2c3;
+}
+h1{
+    color:#25a2c3 ;
+}
+header {
+    background-color: black;
+    width: 100vw;
+    text-align: center;
+}
+header div img {
+width: 35%;
+}
+main {
+    text-align: center;
+    padding: 10px;
+    
+}
+p{
+    color: black;
+}
+.partiamo{
+    text-align: center;
+    padding: 10%;
+    background-image: url('../images/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+} 
+ a ,div:link {
+    background-color: #f04c2f;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 30px 10px 30px;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+
+ a ,div:visited {
+    background-color: #f04c2f;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 30px 10px 30px;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+main div p {margin-bottom: 30px;}
+
+
+main div {
+    color: #fff;
+}
+main div blockquote cite p + p {
+    margin-top: -30px;
+    font-size: 0.8rem;
+    
+}
+
+
+
+cite{
+    font-style: normal;
+}
+.circular-square{ border-radius: 50%;}
+
+h3{
+    text-align: center;
+}
+#corsivo {
+    font-style: italic;
+    font-size: 1rem;
+}
+#colori{
+    background-color: #f04c2f;
+    color: #ffff;
+
+}
+.bianco{color: #fff;}
+
+aside {
+    width: 100vw;
+    text-align: center;
+    padding: 0.5rem;
+    
+}
+aside div { border: 1px solid #dee1e3;
+    margin-bottom: 20px;
+    border-bottom-left-radius:5px ;
+border-bottom-right-radius:5px ;
+
+}
+
+    
+
+aside div p {
+    font-size: 1rem;
+    margin: 30px 30px 50px 30px;
+}
+.dimmensioni {width:100% ;
+    margin-bottom: 20px;
+
+}
+
+ul {
+    list-style-type: none;
+    }
+footer{
+    width: 100vw;
+    background-color: #25a2c3;
+    text-align: center;
+    font-size: 1rem;
+ padding: 5px;
+}
+.biancoContatti{
+    color: #fff;
+    background-color: #25a2c3;
+    font-size: 0.8rem;
+    font-weight: normal;
+    
+}
